@@ -1,0 +1,20 @@
+{
+  "name": "expand-string-professionally",
+  "version": "1.0.0",
+  "description": "Turns 'this' into 't h i s'",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "expand",
+    "string",
+    "spacing"
+  ],
+  "author": "Keiaxx (Adrian Gose)",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}
