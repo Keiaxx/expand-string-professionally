@@ -11,10 +11,11 @@
     "string",
     "spacing"
   ],
-  "author": "Keiaxx (Adrian Gose)",
+  "author": "Adrian Gose <adrian@gose.pw>",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
     "mocha": "^7.1.2"
-  }
+  },
+  "repository": "https://github.com/Keiaxx/expand-string-professionally"
 }
